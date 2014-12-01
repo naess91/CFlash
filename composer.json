@@ -1,5 +1,5 @@
 {
-    "name": ”CFlash”   
+    "name": ”ernb14”,    
     "type": "library",
     "description": ”Class for flash messages”,
     "keywords": [”Flash message”],
