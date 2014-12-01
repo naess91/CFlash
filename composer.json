@@ -1,14 +1,14 @@
 {
-"name": ”ernb14/CFlash”,
+"name": "emsf14/rss",
 "type": "library",
-"description": ”Class for flash messages”,
-"keywords": [”flash”, ”message”],
-"homepage": "https://github.com/naess91",
+"description": "Simple Pie wrapper",
+"keywords": ["rss", "education","wrapper"],
+"homepage": "https://github.com/EmilSjunnesson/rss",
 "license": "MIT",
 "authors": [
 {
-"name": ”Erik Naess”,
-"email": ”ernb14@student.bth.se”,
+"name": "Emil Sjunnesson",
+"email": "min.mail@gmail.se",
 "role": "Developer"
 }
 ],
@@ -16,7 +16,6 @@
 "php": ">=5.4"
 },
 "autoload": {
-"psr-4": { ”ernb14\\”: "src/" }
+"psr-4": { "Emsf14\\": "src/" }
 }
 }
-
