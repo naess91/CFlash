@@ -1,9 +1,8 @@
 {
-    "name": ”ernb14/Flash”,    
+    "name": ”ernb14/CFlash”,    
     "type": "library",
     "description": ”Class for flash messages”,
     "keywords": [”Flash message”],
-    "homepage": "http://dbwebb.se",
     "license": "MIT",
     "authors": [
         {
