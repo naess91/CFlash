@@ -8,6 +8,11 @@ License
 
 This software is free software and carries a MIT license.
 
+Installation
+-------------------------
+To install with Composer and Packagist:
+`Re
+
 How to use flash messages
 -------------------------
 
