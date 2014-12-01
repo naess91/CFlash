@@ -1,14 +1,13 @@
 {
 "name": "ernb14/CFLash",
-"type": "library",
-"description": "Simple Pie wrapper",
-"keywords": ["rss", "education","wrapper"],
-"homepage": "https://github.com/EmilSjunnesson/rss",
+"description": "Flash message class for Anax-MVC",
+"keywords": ["CFlash", "Flashmessage"],
+"homepage": "https://github.com/naess91/CFlash",
 "license": "MIT",
 "authors": [
 {
-"name": "Emil Sjunnesson",
-"email": "min.mail@gmail.se",
+"name": "Erik Naess",
+"email": "ernb14@student.bth.se",
 "role": "Developer"
 }
 ],
@@ -16,6 +15,6 @@
 "php": ">=5.4"
 },
 "autoload": {
-"psr-4": { "Emsf14\\": "src/" }
+"psr-4": { "ernb14\\": "src/" }
 }
 }
