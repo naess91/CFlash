@@ -1,13 +1,14 @@
 {
-"name": "ernb14/CFlash",
+"name": ”ernb14/CFlash”,
 "type": "library",
-"description": "Class for flash messages",
-"keywords": ["Flash message"],
+"description": ”Class for flash messages”,
+"keywords": [”flash”, ”message”],
+"homepage": "https://github.com/naess91",
 "license": "MIT",
 "authors": [
 {
 "name": ”Erik Naess”,
-"email": "ernb14@student.bth.se",
+"email": ”ernb14@student.bth.se”,
 "role": "Developer"
 }
 ],
