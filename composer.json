@@ -1,0 +1,21 @@
+{
+    "name": ”ernb14/Flash”,    
+    "type": "library",
+    "description": ”Class for flash messages”,
+    "keywords": [”Flash message”],
+    "homepage": "http://dbwebb.se",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ”Erik Naess”,
+            "email": ”ernb14@student.bth.se”,
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": { ”ernb14\\”: "src/" }
+    }
+}
