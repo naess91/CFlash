@@ -10,8 +10,8 @@ This software is free software and carries a MIT license.
 
 Installation
 -------------------------
-To install with Composer and Packagist:
-`Re
+To install with Composer and Packagist:  
+`"ernb14/cflash": "dev-master"`
 
 How to use flash messages
 -------------------------
